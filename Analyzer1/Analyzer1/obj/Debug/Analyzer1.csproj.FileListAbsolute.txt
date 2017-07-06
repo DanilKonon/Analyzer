@@ -1,0 +1,10 @@
+c:\users\danil\documents\visual studio 2015\Projects\Analyzer1\Analyzer1\Analyzer1\bin\Debug\Diagnostic.nuspec
+c:\users\danil\documents\visual studio 2015\Projects\Analyzer1\Analyzer1\Analyzer1\bin\Debug\tools\install.ps1
+c:\users\danil\documents\visual studio 2015\Projects\Analyzer1\Analyzer1\Analyzer1\bin\Debug\tools\uninstall.ps1
+c:\users\danil\documents\visual studio 2015\Projects\Analyzer1\Analyzer1\Analyzer1\bin\Debug\Analyzer1.dll
+c:\users\danil\documents\visual studio 2015\Projects\Analyzer1\Analyzer1\Analyzer1\bin\Debug\Analyzer1.pdb
+c:\users\danil\documents\visual studio 2015\Projects\Analyzer1\Analyzer1\Analyzer1\obj\Debug\Analyzer1.csprojResolveAssemblyReference.cache
+c:\users\danil\documents\visual studio 2015\Projects\Analyzer1\Analyzer1\Analyzer1\obj\Debug\Analyzer1.Resources.resources
+c:\users\danil\documents\visual studio 2015\Projects\Analyzer1\Analyzer1\Analyzer1\obj\Debug\Analyzer1.csproj.GenerateResource.Cache
+c:\users\danil\documents\visual studio 2015\Projects\Analyzer1\Analyzer1\Analyzer1\obj\Debug\Analyzer1.dll
+c:\users\danil\documents\visual studio 2015\Projects\Analyzer1\Analyzer1\Analyzer1\obj\Debug\Analyzer1.pdb
